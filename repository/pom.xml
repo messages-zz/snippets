@@ -4,6 +4,6 @@
   <artifactId>repository</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>repository</name>
+  <name>com.snippets.repository</name>
   <description>repository</description>
 </project>
